@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wesley, but you can call me @vygreg. 
+- 👀 I’m interested in Back-End and Fullstack.
+- 🌱 I’m currently learning Python and MySQL Server.
+- 💞️ I’m looking to collaborate on C# projects.
+- 📫 wfggregorio@gmail.com
